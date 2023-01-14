@@ -2,7 +2,7 @@
 
 The following is a listing of software testing related mnemonics. 
 
-## SFDIPOT (San Francisco Depot)
+## [SFDIPOT (San Francisco Depot)](https://github.com/lana-20/mobile-app-testing-checklist/blob/main/SFDPOT%20by%20James%20Bach.pdf)
 - Test Strategy Heuristic by James Bach
   - Structure, Function, Data, Integrations, Platform, Operations, Time
 
@@ -140,7 +140,7 @@ The following is a listing of software testing related mnemonics.
 - API Testing Mnemonic by Ash Winter
   - Integration, Consumers, Endpoints, Operations, Volume, Error Handling, RESTful, Modularity, Authentication, Definitions
 
-## CAN I USE THIS
+## [CAN I USE THIS](https://github.com/lana-20/software-testing-mnemonics/blob/main/CAN%20I%20USE%20THIS%3F%20-%20A%20Mnemonic%20for%20Usability%20Testing.pdf)
 - Usability Testing Mnemonic by David Greenless
   - Comparable Products, Accessibility, Navigation, Intuitive, Users, Standards, Emotional Response, Trunk Test, Heuristic Evaluation, Instructions & Help Text, Satisfaction
 
